@@ -23,7 +23,7 @@ cal=my_class()
 cal.Display(1)  
 print("-------------------")
 cal.Display(0)#
-
+print("exception handling is done")
 
 
 
