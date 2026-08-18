@@ -1,0 +1,1 @@
+print("class 6 is created")
