@@ -13,8 +13,8 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-
-print("Project Updated By Firstime Github to pyhcarm")
+name="Try2Catch"
+print(f"Project Updated By Firstime Github to pyhcarm {name}")
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
