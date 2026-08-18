@@ -1,1 +1,0 @@
-print("class 9 is created")
